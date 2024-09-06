@@ -24,3 +24,13 @@ git clone https://github.com/seu-usuario/menu-hamburguer-responsivo.git](https:/
 
 # Entre no diretório do projeto
 cd menu-hamburguer
+ ````
+## USO
+
+Para utilizar o menu-hambúrguer em seu projeto, inclua os arquivos HTML, CSS e JavaScript fornecidos. 
+
+## LICENÇA
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+Se precisar de mais alguma coisa ou de ajustes específicos, é só me avisar! 😊
