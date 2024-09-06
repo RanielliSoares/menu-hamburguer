@@ -20,7 +20,7 @@ Para instalar e rodar este projeto localmente, siga os passos abaixo:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/menu-hamburguer-responsivo.git
+git clone https://github.com/seu-usuario/menu-hamburguer-responsivo.git](https://github.com/RanielliSoares/menu-hamburguer.git
 
 # Entre no diretório do projeto
-cd menu-hamburguer-responsivo
+cd menu-hamburguer
